@@ -1,0 +1,15 @@
+B:\Sources\WPF UI TreeViews\WpfreeViews\bin\Debug\WpfreeViews.exe.config
+B:\Sources\WPF UI TreeViews\WpfreeViews\bin\Debug\WpfreeViews.exe
+B:\Sources\WPF UI TreeViews\WpfreeViews\bin\Debug\WpfreeViews.pdb
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\WpfreeViews.csprojAssemblyReference.cache
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\MainWindow.g.cs
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\App.g.cs
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\WpfreeViews_MarkupCompile.cache
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\WpfreeViews_MarkupCompile.lref
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\MainWindow.baml
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\WpfreeViews.g.resources
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\WpfreeViews.Properties.Resources.resources
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\WpfreeViews.csproj.GenerateResource.cache
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\WpfreeViews.csproj.CoreCompileInputs.cache
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\WpfreeViews.exe
+B:\Sources\WPF UI TreeViews\WpfreeViews\obj\Debug\WpfreeViews.pdb
